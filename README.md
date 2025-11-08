@@ -130,7 +130,6 @@ This project follows the full **data engineering pipeline**:
 **Manasa**  
 _Data Engineering Learner | SQL Enthusiast_  
 
-📧 Email: your.email@example.com  
 🌐 [LinkedIn](https://www.linkedin.com/in/manasa-thati-121a5b21a/)
 
 ---
